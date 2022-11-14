@@ -25,6 +25,5 @@ https://git-scm.com/downloads
 
 # ЗАКЛЮЧЕНИЕ.
 
-Программа **Visual Stadio Code** упростила работу программистам.
+Программа **Visual Stadio Code** и язык **Markdown** упростили работу программистам.
 
-Язык **Markdown** упростил работу программистам.
