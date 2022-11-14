@@ -26,3 +26,5 @@ https://git-scm.com/downloads
 # ЗАКЛЮЧЕНИЕ
 
 Программа **Visual Studio Code** упростила работу программиста
+
+Язык **Markdown** упростил работу программиста
